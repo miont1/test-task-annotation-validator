@@ -1,0 +1,154 @@
+[
+    {
+        "version": "1.5",
+        "file": "road.jpg",
+        "width": 1000,
+        "height": 667,
+        "part": 1,
+        "original_frame": 1,
+        "frame_skip": 1,
+        "status": "open",
+        "stage": "open",
+        "attributes": {
+            "weather": "clear"
+        },
+        "objects": [
+            {
+                "nm": "0.1",
+                "type": "car",
+                "shape": "poly",
+                "color": "#b266ff"
+            },
+            {
+                "nm": "0.2",
+                "type": "car",
+                "shape": "poly",
+                "color": "#b266ff"
+            },
+            {
+                "nm": "0.3",
+                "type": "car",
+                "shape": "poly",
+                "color": "#b266ff"
+            },
+            {
+                "nm": "0.4",
+                "type": "car",
+                "shape": "poly",
+                "color": "#b266ff"
+            },
+            {
+                "nm": "0.5",
+                "type": "road sign",
+                "shape": "bBox",
+                "color": "#bdd65c"
+            },
+            {
+                "nm": "0.6",
+                "type": "road sign",
+                "shape": "bBox",
+                "color": "#bdd65c"
+            },
+            {
+                "nm": "0.7",
+                "type": "road_barrier",
+                "shape": "poly",
+                "color": "#e61919"
+            },
+            {
+                "nm": "0.8",
+                "type": "road_barrier",
+                "shape": "poly",
+                "color": "#e61919"
+            }
+        ]
+    },
+    {
+        "objects": [
+            {
+                "nm": "0.7",
+                "key": true,
+                "attr_key": false,
+                "x1": 596.4921875,
+                "y1": 415.5859375,
+                "x2": 876.28125,
+                "y2": 503.453125
+            },
+            {
+                "nm": "0.1",
+                "key": true,
+                "attr_key": true,
+                "attributes": {
+                    "oncoming": false
+                },
+                "x1": 605.890625,
+                "y1": 455.796875,
+                "x2": 663.09375,
+                "y2": 497.3984375
+            },
+            {
+                "nm": "0.2",
+                "key": true,
+                "attr_key": true,
+                "attributes": {
+                    "oncoming": false
+                },
+                "x1": 595.140625,
+                "y1": 420.71875,
+                "x2": 624.4375,
+                "y2": 443.71875
+            },
+            {
+                "nm": "0.3",
+                "key": true,
+                "attr_key": true,
+                "attributes": {
+                    "oncoming": false
+                },
+                "x1": 527.328125,
+                "y1": 413.1328125,
+                "x2": 554.25,
+                "y2": 435.0625
+            },
+            {
+                "nm": "0.4",
+                "key": true,
+                "attr_key": true,
+                "attributes": {
+                    "oncoming": true
+                },
+                "x1": 315.5078125,
+                "y1": 404.9765625,
+                "x2": 328.1640625,
+                "y2": 414.0703125
+            },
+            {
+                "nm": "0.5",
+                "key": true,
+                "attr_key": false,
+                "x1": 732.2734375,
+                "y1": 402.03125,
+                "x2": 759.8984375,
+                "y2": 431.03125
+            },
+            {
+                "nm": "0.6",
+                "key": true,
+                "attr_key": false,
+                "x1": 617.7578125,
+                "y1": 398.90625,
+                "x2": 626.1640625,
+                "y2": 407.15625
+            },
+            {
+                "nm": "0.8",
+                "key": true,
+                "attr_key": false,
+                "x1": 0,
+                "y1": 433.0234375,
+                "x2": 395.8203125,
+                "y2": 508.375
+            }
+        ]
+    }
+]
